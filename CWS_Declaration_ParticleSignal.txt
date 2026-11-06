@@ -1,0 +1,13 @@
+DECLARATION
+CWS Project Submission
+
+I, Harshit Joshi, Enrolment No. 23123018, declare that I have no objection to my CWS project, "ParticleSignal: Machine Learning-Based Classification of Signal and Background Events in High-Energy Physics", being shared publicly for review. Specifically:
+
+1. My code may be uploaded to GitHub after review, and the link shared with everyone, so that anyone can download it and check that it is my own work and not copy-pasted or vibe-coded.
+
+2. My video presentation may be uploaded to YouTube after review, and the link shared with everyone.
+
+
+Name:          Harshit Joshi
+Enrolment No.: 23123018
+Date:          30 October 2026
